@@ -1,0 +1,13 @@
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.exe
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.deps.json
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.runtimeconfig.json
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.runtimeconfig.dev.json
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.dll
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\bin\Debug\netcoreapp3.1\CarConsoleAppAssignment.pdb
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.AssemblyInfo.cs
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.dll
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.pdb
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.genruntimeconfig.cache
+C:\Users\Abraham\TrueCoders\Repos\CarConsoleAppAssignment\CarConsoleAppAssignment\obj\Debug\netcoreapp3.1\CarConsoleAppAssignment.csprojAssemblyReference.cache
